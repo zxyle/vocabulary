@@ -4,6 +4,7 @@
 - architecture
 - algorithm
 - adapters
+- authentication
 
 ## B
 
@@ -22,8 +23,11 @@
 ## G 
 
 ## H 
+- helper
+- handler
 
 ## I 
+- integrated 
 
 ## J 
 
@@ -50,6 +54,7 @@
 
 ## U
 - utility
+- ultimate
 
 ## V 
 

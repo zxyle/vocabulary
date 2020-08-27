@@ -26,6 +26,8 @@ jobs:
     
     - name: Commit changes
       run: |
+        git config --global user.email "zxyful@gmail.com"
+        git config --global user.name "zxyle"
         git add README.md
         git commit -m "Update README.md"
         git push

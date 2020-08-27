@@ -1,7 +1,6 @@
 # Computer Science Vocabulary
 
 ## A
-- aardvark
 - abbreviated
 - ability
 - able
@@ -353,13 +352,11 @@
 - arrangements
 - arranging
 - array
-- arrays
 - arrive
 - arrived
 - arrow
 - arrows
 - article
-- articles
 - articulating
 - artist
 - artists
@@ -382,7 +379,6 @@
 - assigned
 - assigning
 - assignment
-- assignments
 - assigns
 - assistant
 - associate
@@ -394,7 +390,6 @@
 - assumes
 - assuming
 - assumption
-- assumptions
 - assure
 - astonishing
 - astonishment
@@ -480,9 +475,7 @@
 - bagged
 - balance
 - ball
-- balls
 - banana
-- bananas
 - bangladesh
 - barbara
 - bare
@@ -606,7 +599,6 @@
 - blunt
 - board
 - bobby
-- bodies
 - body
 - boils
 - bola
@@ -614,12 +606,10 @@
 - bones
 - bonus
 - book
-- books
 - bookshelf
 - boolean
 - boost
 - border
-- borders
 - bored
 - boring
 - born
@@ -642,7 +632,7 @@
 - bounds
 - bowl
 - boxes
-- boys
+- boy
 - brackets
 - braille
 - brain
@@ -680,12 +670,10 @@
 - brown
 - browse
 - browser
-- browsers
 - bruce
 - bruno
 - brute
 - bucket
-- buckets
 - buffer
 - buffered
 - buffers
@@ -717,7 +705,6 @@
 - bypasses
 - bypassing
 - byte
-- bytes
 
 ## C
 - cabs
@@ -763,7 +750,6 @@
 - captured
 - captures
 - card
-- cards
 - care
 - career
 - careful

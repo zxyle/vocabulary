@@ -1,5 +1,5 @@
 # Computer Science Vocabulary
-*update time: 2020-08-27 01:12:11*
+*update time: 2020-08-27 01:41:03*
 
 ## A
 - abstraction
@@ -10,7 +10,6 @@
 - agnostic
 - aim to
 - algorithm
-- algorithms
 - appearance
 - appropriate
 - approved
@@ -57,7 +56,6 @@
 - efficient
 - empower
 - ensures
-- executive editor
 - experienced
 - extensions
 - external
@@ -129,7 +127,6 @@
 - purpose
 
 ## Q
-- quiet
 - quite
 
 ## R
@@ -145,6 +142,7 @@
 ## S
 - scopes
 - section
+- security
 - senior
 - sensible
 - simple

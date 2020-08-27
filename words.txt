@@ -38,9 +38,7 @@ deploy
 distribution
 regard
 data structure
-algorithms
 department
-executive editor
 assistant
 senior
 associate
@@ -124,7 +122,7 @@ access
 as much as
 least
 quite
-quiet
 completion
 validator
 require
+security

@@ -1,5 +1,4 @@
 import string
-from datetime import datetime
 
 with open("./words.txt") as f1, open("./README.md", "w") as f2:
     lines = f1.readlines()
@@ -8,18 +7,14 @@ with open("./words.txt") as f1, open("./README.md", "w") as f2:
     # sorted
     words = list(non_repeating_words)
     words.sort()
-    print(words)
 
     # write file
     f2.write("# Computer Science Vocabulary\n")
-    update_time = datetime.now().strftime("%Y-%m-%d %X")
-    f2.write(f"*update time: {update_time}*\n")
-    for alp in string.ascii_uppercase:
-        print(len(words))
-        headline = f"\n## {alp}\n"
-        f2.write(headline)
+
+    for alphabet in string.ascii_uppercase:
+        f2.write(f"\n## {alphabet}\n")
 
         for word in words:
-            if str(word).startswith(alp.lower()):
+            if str(word).startswith(alphabet.lower()):
                 f2.write(f"- {word}\n")
                 words = words[1:]

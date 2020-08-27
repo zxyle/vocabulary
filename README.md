@@ -1,4 +1,5 @@
 # Computer Science Vocabulary
+*update time: 2020-08-27 01:12:11*
 
 ## A
 - abstraction

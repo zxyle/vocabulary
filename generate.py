@@ -1,4 +1,5 @@
 import string
+from datetime import datetime
 
 with open("./words.txt") as f1, open("./README.md", "w") as f2:
     lines = f1.readlines()
@@ -11,6 +12,8 @@ with open("./words.txt") as f1, open("./README.md", "w") as f2:
 
     # write file
     f2.write("# Computer Science Vocabulary\n")
+    update_time = datetime.now().strftime("%Y-%m-%d %X")
+    f2.write(f"*update time: {update_time}*\n")
     for alp in string.ascii_uppercase:
         print(len(words))
         headline = f"\n## {alp}\n"

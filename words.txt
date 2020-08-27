@@ -1,132 +1,3 @@
-architecture
-algorithm
-adapters
-authentication
-cryptography
-compatibility
-certificate
-disclaimer
-helper
-handler
-integrated 
-mixin
-utility
-ultimate
-repository
-contact
-infrastructure
-interoperate
-robust
-appearance
-behavior
-personalize
-theme
-tune
-keymap
-configure
-plugin
-policies
-proxy
-scopes
-notification
-preface
-efficient
-flexible
-available
-empower
-deploy
-distribution
-regard
-data structure
-department
-assistant
-senior
-associate
-bound
-cover
-founded
-understanding
-fulfill
-aspiration
-efficient
-recognize
-vital
-status
-active
-consistency
-hobgoblin
-layout
-indentation
-maximum
-level
-conventions
-comprise
-companion
-implementation
-mostly prose
-instruction
-chapter
-purpose
-goal
-whole
-fit into
-certainly
-nor
-aim to
-simple
-decision
-lacking
-functionality
-abstraction
-validation
-handle
-instead
-implemented
-numerous
-integration
-various
-authentication
-production
-variety
-convention
-sensible
-stored
-subdirectories
-respectively
-extensions
-available
-integrate
-review
-ensures
-approved
-appropriate
-glue
-pattern
-persistence
-advantage
-agnostic
-hook
-behavior
-subclassing
-curious
-principles
-section
-experienced
-external
-standard
-deployment
-render
-probably
-consider
-access
-as much as
-least
-quite
-completion
-validator
-require
-security
-aardvark
 abbreviated
 ability
 able
@@ -218,6 +89,7 @@ adam
 adapt
 adapted
 adapter
+adapters
 adaptive
 added
 addict
@@ -285,10 +157,12 @@ aggregate
 aggregates
 aggregations
 aging
+agnostic
 agree
 agreed
 agrees
 ahead
+aim to
 aiming
 aims
 aircraft
@@ -475,16 +349,15 @@ arrangement
 arrangements
 arranging
 array
-arrays
 arrive
 arrived
 arrow
 arrows
 article
-articles
 articulating
 artist
 artists
+as much as
 ascending
 ascii
 asian
@@ -494,6 +367,7 @@ asking
 asks
 aspect
 aspects
+aspiration
 assemble
 assembled
 assert
@@ -502,8 +376,8 @@ assign
 assigned
 assigning
 assignment
-assignments
 assigns
+assistant
 associate
 associated
 associates
@@ -513,7 +387,6 @@ assumed
 assumes
 assuming
 assumption
-assumptions
 assure
 astonishing
 astonishment
@@ -544,6 +417,7 @@ augmented
 august
 aurelio
 australia
+authentication
 author
 authored
 authoring
@@ -596,9 +470,7 @@ baffling
 bagged
 balance
 ball
-balls
 banana
-bananas
 bangladesh
 barbara
 bare
@@ -722,7 +594,6 @@ blueprint
 blunt
 board
 bobby
-bodies
 body
 boils
 bola
@@ -730,12 +601,10 @@ bold
 bones
 bonus
 book
-books
 bookshelf
 boolean
 boost
 border
-borders
 bored
 boring
 born
@@ -758,7 +627,7 @@ boundless
 bounds
 bowl
 boxes
-boys
+boy
 brackets
 braille
 brain
@@ -796,12 +665,10 @@ brought
 brown
 browse
 browser
-browsers
 bruce
 bruno
 brute
 bucket
-buckets
 buffer
 buffered
 buffers
@@ -833,7 +700,6 @@ bypassed
 bypasses
 bypassing
 byte
-bytes
 cabs
 cache
 cached
@@ -877,7 +743,6 @@ capture
 captured
 captures
 card
-cards
 care
 career
 careful
@@ -1161,6 +1026,7 @@ community
 commutative
 comp
 compact
+companion
 comparable
 compare
 compared
@@ -1477,6 +1343,7 @@ crucially
 crud
 crunching
 cryptic
+cryptography
 ctrl
 culture
 cultures
@@ -1519,6 +1386,7 @@ darnell
 dashed
 dashes
 data
+data structure
 database
 databases
 dataset
@@ -1653,6 +1521,7 @@ depicting
 depiction
 depicts
 depleted
+deploy
 deployed
 deployment
 deployments
@@ -1787,6 +1656,7 @@ discarding
 discards
 discipline
 disciplines
+disclaimer
 discount
 discounts
 discourage
@@ -2012,6 +1882,7 @@ emphasizes
 emphasizing
 employ
 employed
+empower
 empty
 emptying
 emulate
@@ -2395,6 +2266,7 @@ firm
 firmly
 first
 fischer
+fit into
 fits
 fitting
 five
@@ -2498,6 +2370,7 @@ fosters
 found
 foundation
 foundations
+founded
 founder
 fountain
 four
@@ -2627,6 +2500,7 @@ global
 globe
 globs
 glossary
+glue
 goal
 goals
 godfrey
@@ -2827,6 +2701,7 @@ history
 hitchhiker
 hits
 hitting
+hobgoblin
 hold
 holden
 holder
@@ -3074,6 +2949,7 @@ instantiated
 instantiation
 instead
 institutional
+instruction
 instructions
 instructor
 instructs
@@ -3083,6 +2959,7 @@ integer
 integers
 integral
 integrate
+integrated
 integrated
 integrates
 integrating
@@ -3260,6 +3137,7 @@ kept
 kernel
 keyboard
 keyboards
+keymap
 keynote
 keys
 keystone
@@ -3719,6 +3597,7 @@ misunderstood
 misused
 mixed
 mixes
+mixin
 mixing
 mobile
 mock
@@ -3755,6 +3634,7 @@ morphological
 morphology
 most
 mostly
+mostly prose
 mother
 motion
 motivate
@@ -3864,6 +3744,7 @@ noel
 noise
 none
 nonexistent
+nor
 norm
 normal
 normalization
@@ -3887,6 +3768,7 @@ nothing
 notice
 noticeable
 noticed
+notification
 notified
 noting
 notion
@@ -4191,8 +4073,10 @@ permissions
 permits
 permutations
 persist
+persistence
 person
 personal
+personalize
 personally
 perspective
 perturb
@@ -4268,6 +4152,7 @@ plenty
 plotting
 plug
 plugging
+plugin
 plumage
 plural
 plus
@@ -4281,6 +4166,7 @@ points
 poised
 poking
 polar
+policies
 policy
 politics
 poll
@@ -5158,6 +5044,7 @@ seminal
 send
 sending
 sends
+senior
 sense
 senses
 sensible
@@ -5595,6 +5482,8 @@ style
 styles
 subclass
 subclasses
+subclassing
+subdirectories
 subfamily
 subfield
 subject
@@ -6201,6 +6090,7 @@ validates
 validating
 validation
 validations
+validator
 valuable
 value
 values

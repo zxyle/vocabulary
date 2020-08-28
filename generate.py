@@ -13,3 +13,5 @@ with open("./words.txt") as f1, open("./README.md", "w") as f2:
             if str(word).startswith(alphabet.lower()):
                 f2.write(f"- {word}\n")
                 words = words[1:]
+            else:
+                break

@@ -1,8 +1,12 @@
+# Extract all words in a book.
+# Step1: Copy the entire contents of a book to book.txt
+# Step2: Run script.
+
 import re
+
 from spellchecker import SpellChecker
 
 spell = SpellChecker()
-
 
 with open("book.txt", encoding="utf-8") as f, \
         open("words.txt", "w", encoding="utf-8") as f2:

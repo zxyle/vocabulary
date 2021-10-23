@@ -723,7 +723,6 @@ caller
 calling
 calls
 came
-canada
 cancel
 cancellation
 cancelled
@@ -855,7 +854,6 @@ chess
 chicago
 chicken
 chiefly
-china
 chine
 chinese
 choice
@@ -1310,7 +1308,6 @@ coverage
 covered
 covering
 covers
-cpus
 craig
 crawler
 crease
@@ -1394,9 +1391,6 @@ datasets
 date
 dated
 datum
-dave
-david
-davis
 days
 deadlock
 deadlocks
@@ -1484,7 +1478,6 @@ deleted
 deletes
 deleting
 deletion
-delhi
 deliberate
 deliberately
 delimited
@@ -1674,7 +1667,6 @@ discussing
 discussion
 discussions
 disjoint
-disk
 dislike
 dismay
 dismissing
@@ -1720,11 +1712,9 @@ documenting
 documents
 dodgson
 does
-dogs
 doing
 dollar
 dollars
-dolphin
 domain
 domains
 dominance
@@ -1779,8 +1769,6 @@ drum
 dual
 duality
 dubbed
-duck
-ducks
 dude
 dummy
 dump
@@ -1796,13 +1784,11 @@ during
 dutch
 duties
 duty
-dylan
 dynamic
 dynamically
 each
 eager
 eagerly
-eagle
 earlier
 early
 ease
@@ -1839,7 +1825,6 @@ efficiently
 effort
 eggs
 eiffel
-eight
 either
 elaboration
 elapsed
@@ -1972,7 +1957,6 @@ equated
 equivalence
 equivalent
 equivalents
-eric
 erich
 erik
 errata
@@ -2156,8 +2140,6 @@ extracts
 extrapolate
 extreme
 extremely
-eyes
-face
 faced
 faces
 facets
@@ -2264,12 +2246,10 @@ finishes
 finite
 firm
 firmly
-first
 fischer
 fit into
 fits
 fitting
-five
 fixed
 fixes
 fixing
@@ -2471,7 +2451,6 @@ genetically
 gentle
 genus
 geometry
-georg
 geraldo
 german
 germans
@@ -2481,7 +2460,6 @@ ghost
 gibbs
 gigabytes
 gina
-giraffe
 girls
 gist
 give
@@ -2540,13 +2518,11 @@ graphs
 grasp
 grateful
 grave
-gray
 great
 greater
 greatly
 greedy
 greek
-green
 greg
 gregor
 gremlin
@@ -2579,7 +2555,6 @@ guest
 guide
 guided
 guides
-guido
 guis
 gunslinger
 gupta
@@ -2596,7 +2571,6 @@ hall
 halt
 halved
 hammer
-hand
 handbook
 handful
 handing
@@ -2626,7 +2600,6 @@ hartwig
 harvey
 hash
 hashing
-haskell
 hate
 hates
 hathaway
@@ -2637,7 +2610,6 @@ haven
 having
 haystack
 haystacks
-head
 headaches
 header
 headers
@@ -2646,8 +2618,6 @@ health
 heap
 heard
 hears
-heart
-hearts
 heaven
 heavily
 heavy
@@ -2738,7 +2708,6 @@ humor
 hundreds
 hunt
 hurt
-husband
 hybrid
 hype
 hyphen
@@ -2832,7 +2801,6 @@ inactive
 inadvertent
 inadvertently
 inappropriate
-inch
 inclination
 inclined
 include
@@ -3072,7 +3040,6 @@ issue
 issued
 issues
 issuing
-italian
 italic
 italics
 item
@@ -3086,21 +3053,11 @@ itself
 jack
 jacob
 jairo
-james
-january
-japan
-japanese
 jargon
 jars
 java
 jean
-jeff
-jesse
-jessica
 jobs
-joel
-john
-johnson
 join
 joined
 joining
@@ -3108,7 +3065,6 @@ joking
 jolly
 jonathan
 jones
-josef
 joshua
 journal
 journey
@@ -3116,11 +3072,9 @@ jpeg
 judgment
 julia
 julien
-july
 jump
 jumped
 jumping
-june
 jure
 just
 justified
@@ -3135,10 +3089,7 @@ kelly
 kenneth
 kept
 kernel
-keyboard
-keyboards
 keymap
-keynote
 keys
 keystone
 keyword
@@ -3160,7 +3111,6 @@ knowledge
 knowledgeable
 known
 knows
-korean
 kurt
 label
 labels
@@ -3175,7 +3125,6 @@ lang
 language
 languages
 lapping
-laptop
 large
 larger
 largest
@@ -3232,7 +3181,6 @@ length
 lengths
 lengthy
 lennart
-leonardo
 less
 lessen
 lessening
@@ -3290,7 +3238,6 @@ link
 linked
 linking
 links
-lion
 lisp
 list
 listed
@@ -3429,7 +3376,6 @@ mappings
 maps
 marathon
 marc
-march
 maria
 mario
 mark
@@ -3530,22 +3476,15 @@ messages
 meta
 metaphor
 metaphors
-meters
 method
 methods
 metric
 metro
 metropolis
 metropolitan
-mexico
 meyer
-michael
-michele
 micro
 microcontrollers
-microsecond
-microseconds
-microsoft
 middle
 middleton
 might
@@ -3618,12 +3557,9 @@ moment
 moments
 momentum
 monitor
-monkey
 monolithic
 monster
 montgomery
-month
-months
 monty
 mood
 more
@@ -4956,7 +4892,6 @@ savings
 savvy
 saying
 says
-scala
 scalar
 scale
 scan
@@ -5257,7 +5192,6 @@ smith
 smooth
 smuggled
 snag
-snake
 sneak
 sniff
 snip
@@ -5548,7 +5482,6 @@ summarized
 summarizing
 summary
 summation
-summer
 sumner
 sums
 sunset
@@ -5653,9 +5586,6 @@ task
 tasks
 tauber
 taught
-taxi
-taxicabs
-taxis
 taxonomic
 taxonomy
 teach
@@ -5941,7 +5871,6 @@ tweak
 tweaking
 tweaks
 tween
-twelve
 twice
 twisted
 twitter
@@ -6214,8 +6143,6 @@ weak
 weakly
 weakness
 weaknesses
-week
-weeks
 weighs
 weight
 weights
@@ -6236,7 +6163,6 @@ wherever
 whether
 which
 while
-white
 whole
 whom
 whose
@@ -6258,7 +6184,6 @@ windows
 winged
 wink
 winning
-winter
 wise
 wish
 with
@@ -6274,7 +6199,6 @@ wonderful
 wondering
 wonders
 wood
-woolf
 word
 worded
 wording
@@ -6317,7 +6241,6 @@ written
 wrong
 wrongdoing
 wrote
-year
 yield
 yielded
 yielding
@@ -6327,7 +6250,6 @@ your
 yours
 yourself
 yury
-zero
 zeroed
 zeros
 zipper

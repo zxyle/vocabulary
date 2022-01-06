@@ -730,7 +730,6 @@
 - calling
 - calls
 - came
-- canada
 - cancel
 - cancellation
 - cancelled
@@ -862,7 +861,6 @@
 - chicago
 - chicken
 - chiefly
-- china
 - chine
 - chinese
 - choice
@@ -1317,7 +1315,6 @@
 - covered
 - covering
 - covers
-- cpus
 - craig
 - crawler
 - crease
@@ -1403,9 +1400,6 @@
 - date
 - dated
 - datum
-- dave
-- david
-- davis
 - days
 - deadlock
 - deadlocks
@@ -1493,7 +1487,6 @@
 - deletes
 - deleting
 - deletion
-- delhi
 - deliberate
 - deliberately
 - delimited
@@ -1683,7 +1676,6 @@
 - discussion
 - discussions
 - disjoint
-- disk
 - dislike
 - dismay
 - dismissing
@@ -1729,11 +1721,9 @@
 - documents
 - dodgson
 - does
-- dogs
 - doing
 - dollar
 - dollars
-- dolphin
 - domain
 - domains
 - dominance
@@ -1788,8 +1778,6 @@
 - dual
 - duality
 - dubbed
-- duck
-- ducks
 - dude
 - dummy
 - dump
@@ -1805,7 +1793,6 @@
 - dutch
 - duties
 - duty
-- dylan
 - dynamic
 - dynamically
 
@@ -1813,7 +1800,6 @@
 - each
 - eager
 - eagerly
-- eagle
 - earlier
 - early
 - ease
@@ -1850,7 +1836,6 @@
 - effort
 - eggs
 - eiffel
-- eight
 - either
 - elaboration
 - elapsed
@@ -1983,7 +1968,6 @@
 - equivalence
 - equivalent
 - equivalents
-- eric
 - erich
 - erik
 - errata
@@ -2167,10 +2151,8 @@
 - extrapolate
 - extreme
 - extremely
-- eyes
 
 ## F
-- face
 - faced
 - faces
 - facets
@@ -2277,12 +2259,10 @@
 - finite
 - firm
 - firmly
-- first
 - fischer
 - fit into
 - fits
 - fitting
-- five
 - fixed
 - fixes
 - fixing
@@ -2486,7 +2466,6 @@
 - gentle
 - genus
 - geometry
-- georg
 - geraldo
 - german
 - germans
@@ -2496,7 +2475,6 @@
 - gibbs
 - gigabytes
 - gina
-- giraffe
 - girls
 - gist
 - give
@@ -2555,13 +2533,11 @@
 - grasp
 - grateful
 - grave
-- gray
 - great
 - greater
 - greatly
 - greedy
 - greek
-- green
 - greg
 - gregor
 - gremlin
@@ -2594,7 +2570,6 @@
 - guide
 - guided
 - guides
-- guido
 - guis
 - gunslinger
 - gupta
@@ -2613,7 +2588,6 @@
 - halt
 - halved
 - hammer
-- hand
 - handbook
 - handful
 - handing
@@ -2643,7 +2617,6 @@
 - harvey
 - hash
 - hashing
-- haskell
 - hate
 - hates
 - hathaway
@@ -2654,7 +2627,6 @@
 - having
 - haystack
 - haystacks
-- head
 - headaches
 - header
 - headers
@@ -2663,8 +2635,6 @@
 - heap
 - heard
 - hears
-- heart
-- hearts
 - heaven
 - heavily
 - heavy
@@ -2755,7 +2725,6 @@
 - hundreds
 - hunt
 - hurt
-- husband
 - hybrid
 - hype
 - hyphen
@@ -2851,7 +2820,6 @@
 - inadvertent
 - inadvertently
 - inappropriate
-- inch
 - inclination
 - inclined
 - include
@@ -3090,7 +3058,6 @@
 - issued
 - issues
 - issuing
-- italian
 - italic
 - italics
 - item
@@ -3106,21 +3073,11 @@
 - jack
 - jacob
 - jairo
-- james
-- january
-- japan
-- japanese
 - jargon
 - jars
 - java
 - jean
-- jeff
-- jesse
-- jessica
 - jobs
-- joel
-- john
-- johnson
 - join
 - joined
 - joining
@@ -3128,7 +3085,6 @@
 - jolly
 - jonathan
 - jones
-- josef
 - joshua
 - journal
 - journey
@@ -3136,11 +3092,9 @@
 - judgment
 - julia
 - julien
-- july
 - jump
 - jumped
 - jumping
-- june
 - jure
 - just
 - justified
@@ -3157,10 +3111,7 @@
 - kenneth
 - kept
 - kernel
-- keyboard
-- keyboards
 - keymap
-- keynote
 - keys
 - keystone
 - keyword
@@ -3182,7 +3133,6 @@
 - knowledgeable
 - known
 - knows
-- korean
 - kurt
 
 ## L
@@ -3199,7 +3149,6 @@
 - language
 - languages
 - lapping
-- laptop
 - large
 - larger
 - largest
@@ -3256,7 +3205,6 @@
 - lengths
 - lengthy
 - lennart
-- leonardo
 - less
 - lessen
 - lessening
@@ -3314,7 +3262,6 @@
 - linked
 - linking
 - links
-- lion
 - lisp
 - list
 - listed
@@ -3455,7 +3402,6 @@
 - maps
 - marathon
 - marc
-- march
 - maria
 - mario
 - mark
@@ -3556,22 +3502,15 @@
 - meta
 - metaphor
 - metaphors
-- meters
 - method
 - methods
 - metric
 - metro
 - metropolis
 - metropolitan
-- mexico
 - meyer
-- michael
-- michele
 - micro
 - microcontrollers
-- microsecond
-- microseconds
-- microsoft
 - middle
 - middleton
 - might
@@ -3644,12 +3583,9 @@
 - moments
 - momentum
 - monitor
-- monkey
 - monolithic
 - monster
 - montgomery
-- month
-- months
 - monty
 - mood
 - more
@@ -4480,9 +4416,7 @@
 - purchased
 - pure
 - purity
-- purple
 - purpose
-- purposes
 - pursuit
 - push
 - pushed
@@ -4994,7 +4928,6 @@
 - savvy
 - saying
 - says
-- scala
 - scalar
 - scale
 - scan
@@ -5295,7 +5228,6 @@
 - smooth
 - smuggled
 - snag
-- snake
 - sneak
 - sniff
 - snip
@@ -5586,7 +5518,6 @@
 - summarizing
 - summary
 - summation
-- summer
 - sumner
 - sums
 - sunset
@@ -5693,9 +5624,6 @@
 - tasks
 - tauber
 - taught
-- taxi
-- taxicabs
-- taxis
 - taxonomic
 - taxonomy
 - teach
@@ -5981,7 +5909,6 @@
 - tweaking
 - tweaks
 - tween
-- twelve
 - twice
 - twisted
 - twitter
@@ -6260,8 +6187,6 @@
 - weakly
 - weakness
 - weaknesses
-- week
-- weeks
 - weighs
 - weight
 - weights
@@ -6282,7 +6207,6 @@
 - whether
 - which
 - while
-- white
 - whole
 - whom
 - whose
@@ -6304,7 +6228,6 @@
 - winged
 - wink
 - winning
-- winter
 - wise
 - wish
 - with
@@ -6320,7 +6243,6 @@
 - wondering
 - wonders
 - wood
-- woolf
 - word
 - worded
 - wording
@@ -6367,7 +6289,6 @@
 ## X
 
 ## Y
-- year
 - yield
 - yielded
 - yielding
@@ -6379,7 +6300,6 @@
 - yury
 
 ## Z
-- zero
 - zeroed
 - zeros
 - zipper
